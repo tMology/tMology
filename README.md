@@ -2,7 +2,7 @@
 - 👀 I have an interest in Japan and Videogames along with PC hardware I love keeping up with GPU's and various PC hardware.
 - 🌱 I’m currently learning heavily programming in Java, my repo reflects this.
 - 💞️ I’m looking to collaborate on hobby projects.
-- 📫 How to reach me mitchellhabocomp@uncc.edu
+- 📫 How to reach me mitchellhabocomp@gmail.com
 
 <!---
 tMology/tMology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
